@@ -28,7 +28,7 @@
                   <li>Ретиноскопи хийх</li>
                   <li>Нүдний хуурайшилт тодорхойлох</li>
                 </h5>
-                <img src="../assets/img/leaf3.png" alt="" />
+                <img src="../assets/img/leaf3.png" alt="" style="width:350px" />
               </div>
             </div>
             <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto">
@@ -48,7 +48,7 @@
                   </li>
                   <li>Насжилтаас шалтгаасан шар толбот эмгэг</li>
                 </h5>
-                <img src="../assets/img/leaf3.png" alt="" />
+                <img src="../assets/img/eye.jpg" alt="" style="width: 350px" />
               </div>
             </div>
           </div>

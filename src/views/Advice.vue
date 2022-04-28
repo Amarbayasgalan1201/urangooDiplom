@@ -24,7 +24,7 @@
                     нүдний нарийн мэргэжлийн эмчид хандах зайлшгүй шаардлагатай
                   </p>
                 </h5>
-                <img src="../assets/img/leaf3.png" alt="" />
+                <img src="../assets/img/eyeRed.jpg" alt="" style="width: 350px" />
               </div>
             </div>
             <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto">
@@ -51,10 +51,10 @@
                     Эмчийн заалтаар мэс заслын аргаар авдаг
                   </p>
                 </h5>
-                <img src="../assets/img/leaf3.png" alt="" />
+                <img src="../assets/img/nud.jpg" alt="" style="width:350px" />
               </div>
             </div>
-            <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto">
+            <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto" style="margin-bottom: 10px">
               <h2 class="title text-center">
                 Нүд яагаад хуурайшдаг вэ?
               </h2>
@@ -70,7 +70,7 @@
                     үүсдэг тул эмч нар хиймэл нулимс дусаахыг зөвлөдөг
                   </p>
                 </h5>
-                <img src="../assets/img/leaf3.png" alt="" />
+                <img src="../assets/img/leaf3.png" alt="" style="width: 350px; margin-bottom: 20px" />
               </div>
             </div>
           </div>
