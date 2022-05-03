@@ -8,6 +8,7 @@
   >
     <div class="md-toolbar-row md-collapse-lateral">
       <div class="md-toolbar-section-start">
+              <img src="../assets/img/logo.jpg" alt="" style="width: 50px; margin-right: 20px">
         <h3 class="md-title">Феникс нүдний эмнэлэг</h3>
       </div>
       <div class="md-toolbar-section-end">
