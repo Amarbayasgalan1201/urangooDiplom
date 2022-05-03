@@ -63,7 +63,7 @@ export default {
   props: {
     header: {
       type: String,
-      default: require("@/assets/img/profile_city.jpg")
+      default: require("@/assets/img/gettime.jpg")
     }
   },
   computed: {

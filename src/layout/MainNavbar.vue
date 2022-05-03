@@ -41,7 +41,7 @@
                 <router-link to="/timeOrder">Цаг авах</router-link>
               </md-list-item>
               <md-list-item>
-                <router-link to="/">Холбоо барих</router-link>
+                <router-link to="/contact">Холбоо барих</router-link>
               </md-list-item>
 
               <md-list-item

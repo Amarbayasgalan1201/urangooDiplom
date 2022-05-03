@@ -4,6 +4,7 @@ import Index from "./views/Index.vue";
 import Service from "./views/Service.vue";
 import Time from "./views/Time.vue";
 import Advice from "./views/Advice.vue";
+import contact from "./views/contact.vue"
 import MainNavbar from "./layout/MainNavbar.vue";
 import MainFooter from "./layout/MainFooter.vue";
 
@@ -24,6 +25,15 @@ export default new Router({
       path: "/service",
       name: "service",
       components: { default: Service, header: MainNavbar, footer: MainFooter },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" }
+      }
+    },
+    {
+      path: "/contact",
+      name: "contact",
+      components: { default: contact, header: MainNavbar, footer: MainFooter },
       props: {
         header: { colorOnScroll: 400 },
         footer: { backgroundColor: "black" }

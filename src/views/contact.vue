@@ -5,7 +5,6 @@
         <div class="md-layout-item">
           <div class="image-wrapper">
             <div class="brand">
-              <h1>Феникс нүдний эмнэлэг</h1>
             </div>
           </div>
         </div>
@@ -13,14 +12,13 @@
     </parallax>
     <div class="main main-raised">
       <div class="section section-basic">
-        <div class="container">
+        <div class="container" style="text-align: center">
           <div class="title">
-            <p>
-              Нүдний эмчийн ажил бол анхны үзлэх хийх бөгөөд энэ үеэр харааны
-              хурц байдал, нүдний дотоод даралт, зузааны тодорхойлолт торлог
-              бүрхэвчийн шалгадаг. Шалгалтын үр дүнд үндэслэн гаргадаг
-            </p>
+            <h1 style="font-weight: bold"> Холбоо барих</h1>
           </div>
+          <h5><strong>Утасны дугаар:</strong> 99944435</h5>
+          <h5><strong>И-мэйл:</strong> fenix@gmail.com</h5>
+          <h5><strong>Хаяг:</strong> БГД дүүрэг 18-хороо Grand Plaza</h5>
         </div>
       </div>
     </div>
